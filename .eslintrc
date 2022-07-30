@@ -1,3 +1,6 @@
+// ESLint defines the code conventions
+// Prettier performs the auto-formatting based on the ESLint rules
+
 {
     "root": true,
     "parser": "@typescript-eslint/parser",
